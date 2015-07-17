@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#sudo service transmission-daemon stop
+transmission-daemon -g /opt/torrent/settings
+
